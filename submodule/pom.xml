@@ -4,11 +4,11 @@
   <parent>
     <groupId>net.therore.kata</groupId>
     <artifactId>kata-jgitflow</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
   </parent>
   <groupId>net.therore.kata</groupId>
   <artifactId>kata-jgitflow-submodule</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>kata-jgitflow-submodule</name>
   <url>http://maven.apache.org</url>
   <dependencies>
